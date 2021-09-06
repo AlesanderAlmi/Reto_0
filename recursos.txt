@@ -1,0 +1,3 @@
+Ejemplo HTML Simple y editable -> https://www.w3schools.com/html/tryit.asp?filename=tryhtml_basic_document
+
+Creación de repositorio en GitHub -> https://docs.github.com/en/get-started/quickstart/create-a-repo 
